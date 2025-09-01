@@ -10,4 +10,8 @@ This repository contains the dataset and parameter tables used in the paper:
   - Sheet “Parameters....”: model constants, bounds, and scenario settings.
   - Sheet “Codebook....”: column descriptions & units.
 
-
+## Files
+- `data_and_parameters.xlsx` — Input data and modeling parameters for the IEEE RTS 24-bus standard test system.
+  - **Data**: utilized datasets (sources, units, ranges).
+  - **Parameters**: model constants, bounds, and scenario settings.
+  - **Codebook**: column descriptions and units.
