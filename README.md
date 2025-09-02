@@ -1,4 +1,4 @@
-# Topology, Dataset, & Parameters — Reduced-Space Chronology-Preserving DTR in TEP
+# Dataset, & Parameters — Reduced-Space Chronology-Preserving DTR in TEP
 
 This repository contains the dataset and parameter tables used in the paper:
 
